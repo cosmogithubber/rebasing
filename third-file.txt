@@ -1,1 +1,3 @@
 Third file in rebasing feature 1
+
+Added line in third-file.txt
